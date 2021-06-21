@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(1, 22, 39)
+}
+.header{
+    color: snow;
+}
+.header h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+.main-div{
+    width: 1000px;
+    background-color: rgb(1, 22, 39);
+    color: cornsilk;
+    border: 1px solid rgb(230, 226, 226);
+    margin: auto;
+}
+
+#mobile-name h1,h3{
+     text-align: center;
+ }
+ #price table{
+     margin: auto;
+ }
+ .img img{
+     align: center;
+     padding-left: 250px;
+     margin-top: 20px;
+     width: 520px;
+     height: 500px;
+}
+#speci table{
+    margin: auto;
+    margin-bottom: 20px;
+}
+#speci h1{
+    text-align: center;
+}
+.about h1{
+    text-align: center;
+}
+.about p{
+    padding: 0px 14px;
+}
+.score{
+    width: 960px;
+    background-color: rgb(1, 22, 42);
+    margin-bottom: 50px;
+    border: 2px rgb(155, 58, 58);
+}
+.score h2{
+    text-align: center;
+padding-top: 10px;
+}
+.score hr{
+    height: 10px;
+    background-color: rgb(182, 218, 217);
+   margin: 0px 70px 10px 0px;
+}
+/*.score-details{
+    background-color: crimson;*/
+
+.more {
+    background-color: rgb(1, 22, 40);
+   align-items: center;
+   padding: 5px;
+   margin-top: 20px;
+}
+.more mark{
+    text-align: center;
+    margin-left: 270px ;
+    font-size: 26px;
+    color: cyan;
+    background-color: rgb(9, 22, 39);
+}
+.more-info{
+    width: 940px;
+    background-color: rgb(1, 21, 39);
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    padding-left: 47px;
+}
+.more-info div{
+    background-color: rgb(2, 25, 39);
+    width: 440px;
+    float: left;
+    margin: 5px;
+    color: #fff;
+}
+#st-image{
+   width: 440px; 
+}
+.footer{
+    background-color: rgb(5, 0, 0);
+    color: blanchedalmond;
+   padding: 20px;
+   text-align: center;
+}
+.last{
+    text-align: center;
+    color: #fff;
+}
+
+
+
